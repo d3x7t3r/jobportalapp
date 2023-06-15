@@ -1,6 +1,6 @@
 # jobportalapp
 
-A new Flutter project.
+A Flutter project that enables all freelancers around the world looking for jobs from different parts around the world.
 
 ## Getting Started
 
